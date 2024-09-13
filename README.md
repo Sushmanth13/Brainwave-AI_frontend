@@ -1,9 +1,7 @@
 <div align="center">
-  <br />
     <a href="https://sushmanth-brainwave.netlify.app/" target="_blank">
       <h1>Brainwave - AI</h1>
     </a>
-  <br />
 </div>
 
 
