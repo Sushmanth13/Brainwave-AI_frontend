@@ -1,11 +1,9 @@
 <div align="center">
   <br />
     <a href="https://sushmanth-brainwave.netlify.app/" target="_blank">
-      <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
+      <h1>Brainwave - AI</h1>
     </a>
   <br />
-
-  <h3 align="center">Modern UI/UX website</h3>
 </div>
 
 
